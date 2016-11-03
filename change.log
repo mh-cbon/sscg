@@ -1,4 +1,14 @@
 
+0.0.4
+
+  * deply: fix GH_TOKEN for travis
+
+  - mh-cbon <mh-cbon@users.noreply.github.com>
+
+-- mh-cbon <mh-cbon@users.noreply.github.com>; Thu, 03 Nov 2016 19:59:50 +0100
+
+
+
 0.0.3
 
   * deploy: fix travis release key
@@ -26,3 +36,5 @@
   - mh-cbon <mh-cbon@users.noreply.github.com>
 
 -- mh-cbon <mh-cbon@users.noreply.github.com>; Thu, 03 Nov 2016 18:58:20 +0100
+
+
