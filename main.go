@@ -183,8 +183,7 @@ func main() {
 	keyPath := path.Join(outDirectory, "key.pem")
 	keyOut, err := os.OpenFile(keyPath, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0600)
 	if err != nil {
-		log.Print("failed to open '%s' for writing: %s", keyPath, err)
-		return
+		log.Fatalf("failed to open '%s' for writing: %s\n", keyPath, err)
 	}
 	pem.Encode(keyOut, pemBlockForKey(priv))
 	keyOut.Close()
