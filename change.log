@@ -1,4 +1,14 @@
 
+0.0.2
+
+  * deploy: fix typos in both appveyor / travis files
+
+  - mh-cbon <mh-cbon@users.noreply.github.com>
+
+-- mh-cbon <mh-cbon@users.noreply.github.com>; Thu, 03 Nov 2016 19:30:55 +0100
+
+
+
 0.0.1
 
   * init
