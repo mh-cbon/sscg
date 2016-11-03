@@ -50,4 +50,4 @@ deploy:
     - $MYAPP-amd64.rpm
   skip_cleanup: true
   on:
-tags: true
+    tags: true
