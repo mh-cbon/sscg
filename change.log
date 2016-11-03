@@ -1,4 +1,15 @@
 
+0.0.3
+
+  * deploy: fix travis release key
+  * changelog: 0.0.2
+
+  - mh-cbon <mh-cbon@users.noreply.github.com>
+
+-- mh-cbon <mh-cbon@users.noreply.github.com>; Thu, 03 Nov 2016 19:43:56 +0100
+
+
+
 0.0.2
 
   * deploy: fix typos in both appveyor / travis files
