@@ -1,0 +1,36 @@
+Package: sscg
+Priority: extra
+Section: unknown
+Installed-Size: 2.6 kB
+Maintainer: mh-cbon <mh-cbon@users.noreply.github.com>
+Architecture: i386
+Source: sscg
+Version: 0.0.4
+Filename: pool/contrib/s/sscg/sscg-0.0.4_386.deb
+Size: 755566
+MD5sum: afdcac1d65584260b8abd6b3f92a17b4
+SHA1: 36a0337591b92fc85848b69f30ce6b4e920d2ab1
+SHA256: 596266493188bb9832a17a7174f9f7cae0ed276e68c70969af924abd6276887a
+SHA512: 83d0109eb590d6ce51ca4f77706fd993394f39fc42dd7ede2432167873f1a90a03f4a282cfa4f6ad1642197c8b82c43c4f36f3bbd7fa4b69a8d81e54d09a8260
+Description: Generate self signed certificates
+Package-Type: deb
+Homepage: http://github.com/mh-cbon/sscg
+
+Package: sscg
+Priority: extra
+Section: unknown
+Installed-Size: 2.6 kB
+Maintainer: mh-cbon <mh-cbon@users.noreply.github.com>
+Architecture: i386
+Source: sscg
+Version: 0.0.3
+Filename: pool/contrib/s/sscg/sscg-0.0.3_386.deb
+Size: 755628
+MD5sum: 05cc5a7a4401c742ceb7122142b9f193
+SHA1: ddac27ccd85a0fe10689e0596a0d2ae9a82d0c6d
+SHA256: 9f71e8e56ba05f149c7ce83e7a318a85e733ddc0ea6b8fa4a46bf943b49c2ebe
+SHA512: fa282e982c2411557e44916122e5b3028cd28e4516582e09fc3f23f9dfa5a2fd602e527e4dbb43595808aa4737d6162a97ce96f6661dc0783f201aab5d0b6001
+Description: Generate self signed certificates
+Homepage: http://github.com/mh-cbon/sscg
+Package-Type: deb
+
