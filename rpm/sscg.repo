@@ -1,0 +1,6 @@
+[sscg]
+name=Generate self signed certificates
+baseurl=https://mh-cbon.github.io/sscg/rpm/$basearch/
+enabled=1
+skip_if_unavailable=1
+gpgcheck=0
